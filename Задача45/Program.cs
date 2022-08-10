@@ -12,3 +12,4 @@ for (int i = 0; i < array1.Length; i++)
 array1[0] = -10;
 Console.WriteLine("[" + string.Join(", ", array) + "]");
 Console.WriteLine("[" + string.Join(", ", array1) + "]");
+
