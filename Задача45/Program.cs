@@ -12,4 +12,5 @@ for (int i = 0; i < array1.Length; i++)
 array1[0] = -10;
 Console.WriteLine("[" + string.Join(", ", array) + "]");
 Console.WriteLine("[" + string.Join(", ", array1) + "]");
+// поэлементное копирование - когда в массиве куда копируешь данные с другого есть заполненные ячейки с индексом (они не меняются)
 
