@@ -1,0 +1,15 @@
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 6 (примеры и дз)\Seminar\Пример_двумерного массива\bin\Debug\net6.0\Пример_двумерного массива.exe
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 6 (примеры и дз)\Seminar\Пример_двумерного массива\bin\Debug\net6.0\Пример_двумерного массива.deps.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 6 (примеры и дз)\Seminar\Пример_двумерного массива\bin\Debug\net6.0\Пример_двумерного массива.runtimeconfig.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 6 (примеры и дз)\Seminar\Пример_двумерного массива\bin\Debug\net6.0\Пример_двумерного массива.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 6 (примеры и дз)\Seminar\Пример_двумерного массива\bin\Debug\net6.0\Пример_двумерного массива.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 6 (примеры и дз)\Seminar\Пример_двумерного массива\obj\Debug\net6.0\Пример_двумерного массива.csproj.AssemblyReference.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 6 (примеры и дз)\Seminar\Пример_двумерного массива\obj\Debug\net6.0\Пример_двумерного массива.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 6 (примеры и дз)\Seminar\Пример_двумерного массива\obj\Debug\net6.0\Пример_двумерного массива.AssemblyInfoInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 6 (примеры и дз)\Seminar\Пример_двумерного массива\obj\Debug\net6.0\Пример_двумерного массива.AssemblyInfo.cs
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 6 (примеры и дз)\Seminar\Пример_двумерного массива\obj\Debug\net6.0\Пример_двумерного массива.csproj.CoreCompileInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 6 (примеры и дз)\Seminar\Пример_двумерного массива\obj\Debug\net6.0\Пример_двумерного массива.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 6 (примеры и дз)\Seminar\Пример_двумерного массива\obj\Debug\net6.0\refint\Пример_двумерного массива.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 6 (примеры и дз)\Seminar\Пример_двумерного массива\obj\Debug\net6.0\Пример_двумерного массива.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 6 (примеры и дз)\Seminar\Пример_двумерного массива\obj\Debug\net6.0\Пример_двумерного массива.genruntimeconfig.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 6 (примеры и дз)\Seminar\Пример_двумерного массива\obj\Debug\net6.0\ref\Пример_двумерного массива.dll
